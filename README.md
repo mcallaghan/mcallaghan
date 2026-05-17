@@ -6,4 +6,6 @@ Currently, I am leading work on evaluation for the [DESTINY](https://destiny-evi
 
 ---
 
-![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcallaghan&show_icons=true&theme=nord&count_private=true)
+<p align="left">
+  <img src="https://github.com/mcallaghan/mcallaghan/blob/main/github-metrics.svg" alt="Metrics" width="400">
+</p>
