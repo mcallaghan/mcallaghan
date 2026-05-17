@@ -6,7 +6,4 @@ Currently, I am leading work on evaluation for the [DESTINY](https://destiny-evi
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mcallaghan&show_icons=true&theme=nord&count_private=true&hide_title=true" alt="Max's GitHub stats" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcallaghan&layout=compact&theme=nord&hide_title=true" alt="Top Languages" height="150px" />
-</p>
+![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcallaghan&show_icons=true&theme=nord&count_private=true)
